@@ -22,7 +22,6 @@ export default function RootLayout({
         <div className="pt-32">
         {children}
         </div>
-       
       </body>
     </html>
   );
