@@ -1,6 +1,6 @@
 
 import { Categories } from "./components/categories/Categories";
-import { PropertyList } from "./components/properties/PropertyList";
+import PropertyList from "./components/properties/PropertyList";
 
 export default function Home() {
   return (

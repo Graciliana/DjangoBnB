@@ -1,11 +1,12 @@
 import { PropertyListItem } from "./PropertyListItem"
 
-export const PropertyList  = () => {
+const PropertyList = () => {
   return (
     <>
       <PropertyListItem />
       <PropertyListItem />
-      <PropertyListItem/>
+      <PropertyListItem />
     </>
-  )
-}
+  );
+};
+export default PropertyList;
